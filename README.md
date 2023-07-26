@@ -66,4 +66,4 @@ We welcome contributions to enhance the project. If you find any issues or have 
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [License Name] License - see the [LICENSE](https://github.com/WalterBrian/celo-dapp/blob/Genesis/LICENCE) file for details.
