@@ -27,7 +27,7 @@ git clone https://github.com/WalterBrian/celo-dapp.git
 After cloning the repository, navigate to the project's root directory using the terminal:
 
 ```bash
-cd celo-dapp.git
+cd celo-dapp
 ```
 
 Now, you need to install the project dependencies using npm. Run the following command:
