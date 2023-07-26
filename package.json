@@ -1,0 +1,29 @@
+{
+  "name": "dapp",
+  "version": "1.0.0",
+  "description": "A project by walter brian to make a simple celo dapp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "build": "webpack"
+  },
+  "keywords": [
+    "Celo",
+    "Solidity",
+    "JAVASCRIPT",
+    "Materialize"
+  ],
+  "author": "WALTER BRIAN",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^4.1.0",
+    "bignumber.js": "^9.1.1"
+  },
+  "devDependencies": {
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
